@@ -13,33 +13,19 @@ Module Variables
 
         myFirstNumber = 42
         secondNumber = 33
-
-        Console.WriteLine(myFirstNumber)
-        Console.Read()
-
-        Console.WriteLine(myFirstNumber + secondNumber)
-        Console.Read()
-        Console.WriteLine(myFirstNumber - secondNumber
-                          )
-        Console.Read()
-        Console.WriteLine(myFirstNumber * secondNumber
-                          )
-        Console.Read()
-
         someString = "Texteroni"
-
-
-        Console.WriteLine(someString)
-        Console.Read()
-
         aTest = True
-
-
-        Console.WriteLine(aTest)
-        Console.Read()
-
         x = 7
 
+        Console.WriteLine(myFirstNumber)
+
+        Console.WriteLine(myFirstNumber + secondNumber)
+        Console.WriteLine(myFirstNumber - secondNumber
+                          )
+        Console.WriteLine(myFirstNumber * secondNumber
+                          )
+        Console.WriteLine(someString)
+        Console.WriteLine(aTest)
         Console.WriteLine(x)
         Console.Read()
 
